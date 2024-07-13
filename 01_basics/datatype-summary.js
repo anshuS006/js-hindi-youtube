@@ -28,3 +28,6 @@ console.log(typeof outSideTemp)
 
 //Reference type Non primitive
 //Array, Objects,Functions
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// stack (premitive) , heap (Non-primitive)
